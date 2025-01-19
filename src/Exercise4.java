@@ -12,11 +12,8 @@ public class Exercise4 {
         char letra ;
         System.out.print("Ingrese una letra: ");
 
-
         letra = input.next().charAt(0);
-
         String validateLetter = (letra >= 65 && letra <=90)?"Mayuscula":"Minuscula";
-
         System.out.printf("La letra es: " + validateLetter);
 
         input.close();
