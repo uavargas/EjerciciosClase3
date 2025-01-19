@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f16ffb1-eaed-4499-a4ff-836deb42dc55" name="Changes" comment="Ejercicio 5 Clase 3 realizado">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercisesClass3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise7.java" afterDir="false" />
+    <list default="true" id="0f16ffb1-eaed-4499-a4ff-836deb42dc55" name="Changes" comment="Ejercicio 7 Clase 3 realizado.">
+      <change afterPath="$PROJECT_DIR$/src/Exercise8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DevSeniorSoftwareDevelopment/exercisesClass3/src&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/DevSeniorSoftwareDevelopment/exercisesClass3/src",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\DevSeniorSoftwareDevelopment\exercisesClass3\src" />
@@ -101,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1737257476835</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercicio 7 Clase 3 realizado">
+      <created>1737326074251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737326074251</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ejercicio 7 Clase 3 realizado.">
+      <created>1737326254354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737326254354</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +128,8 @@
     <MESSAGE value="Ejercicio 3 Clase 3 realizado" />
     <MESSAGE value="Ejercicio 4 Clase 3 realizado" />
     <MESSAGE value="Ejercicio 5 Clase 3 realizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 5 Clase 3 realizado" />
+    <MESSAGE value="Ejercicio 7 Clase 3 realizado" />
+    <MESSAGE value="Ejercicio 7 Clase 3 realizado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 7 Clase 3 realizado." />
   </component>
 </project>
