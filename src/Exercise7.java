@@ -38,12 +38,12 @@ public class Exercise7 {
         segmento3 = input.nextInt();
 
         if ((segmento1 + segmento2 > segmento3) && (segmento2 + segmento3 > segmento1) && (segmento1 + segmento3 > segmento2) && segmento1 > 0 && segmento2 > 0 && segmento3 > 0) {
-            System.out.printf("Los valores %d, %d, %d cumplen con las reglas para formar una figura de un triangulo.",
+            System.out.printf("Los valores %d, %d, %d cumplen con las reglas para formar una figura de un triangulo.\n",
                     segmento1,segmento2,segmento3);
 
         }else {
             System.out.printf("Los valores %d, %d, %d  NO cumplen con las reglas para formar una figura de un " +
-                            "triangulo.",
+                            "triangulo.\n",
                     segmento1,segmento2,segmento3);
 
         }
