@@ -22,7 +22,7 @@ No pueden existir medidas negativas
 
 * */
 
-
+//
 import java.util.Scanner;
 
 public class Exercise7 {
@@ -47,7 +47,6 @@ public class Exercise7 {
                     segmento1,segmento2,segmento3);
 
         }
-
         input.close();
 
 
