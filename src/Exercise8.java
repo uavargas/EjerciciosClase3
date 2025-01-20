@@ -39,9 +39,7 @@ public class Exercise8 {
             System.out.print("Eres de la etapa Persona mayor ");
 
         }
-
         input.close();
-
 
     }
 }
